@@ -1,0 +1,103 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+.outer {
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.input-modal-outer-div {
+  background: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+input[type],
+select {
+  width: 100%;
+}
+
+input[type="button"] {
+  @extend input[type];
+  margin-top: 70px;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.box {
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  margin: 0 auto;
+  padding: 35px;
+  text-align: center;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  bottom: 0;
+  left: 0;
+  overflow: scroll;
+  position: fixed;
+  right: 0;
+  top: 0;
+  -webkit-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+
+.overlay:target {
+  opacity: 1;
+  visibility: visible;
+}
+
+.popup {
+  background: #fff;
+  border-radius: 5px;
+  margin: 70px auto;
+  position: relative;
+  padding: 10px;
+  padding: 20px;
+  width: 270px;
+}
+
+.popup h2 {
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+  margin-top: 0;
+}
+
+.popup .close {
+  color: #333;
+  font-weight: bold;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+  text-decoration: none;
+  -webkit-transition: all 200ms;
+  -o-transition: all 200ms;
+  transition: all 200ms;
+}
+
+.popup .close:hover {
+  color: #06d85f;
+}
+
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+hr {
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    color-stop(0, #7f53ac),
+    to(#657ced)
+  );
+  background-image: -o-linear-gradient(left, #7f53ac 0, #657ced 100%);
+  background-image: linear-gradient(to right, #7f53ac 0, #657ced 100%);
+}
