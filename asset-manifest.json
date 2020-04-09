@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f20b9f7.chunk.css",
-    "main.js": "/static/js/main.b3028098.chunk.js",
-    "main.js.map": "/static/js/main.b3028098.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5802b397.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5802b397.js.map",
-    "static/js/2.f161bb85.chunk.js": "/static/js/2.f161bb85.chunk.js",
-    "static/js/2.f161bb85.chunk.js.map": "/static/js/2.f161bb85.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7abfd3d38be227741b4c8a48e66ee596.js": "/precache-manifest.7abfd3d38be227741b4c8a48e66ee596.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1f20b9f7.chunk.css.map": "/static/css/main.1f20b9f7.chunk.css.map",
-    "static/js/2.f161bb85.chunk.js.LICENSE.txt": "/static/js/2.f161bb85.chunk.js.LICENSE.txt",
-    "static/media/calender-icon.png": "/static/media/calender-icon.15f6ce85.png",
-    "static/media/card-background.jpg": "/static/media/card-background.fd0c9d30.jpg",
-    "static/media/empty-list-icon.png": "/static/media/empty-list-icon.a1167211.png",
-    "static/media/loader.gif": "/static/media/loader.e4b6323e.gif",
-    "static/media/logout-icon.png": "/static/media/logout-icon.bb6dc57c.png"
+    "main.css": "/react-task3/static/css/main.1f20b9f7.chunk.css",
+    "main.js": "/react-task3/static/js/main.344b821f.chunk.js",
+    "main.js.map": "/react-task3/static/js/main.344b821f.chunk.js.map",
+    "runtime-main.js": "/react-task3/static/js/runtime-main.53b4ef19.js",
+    "runtime-main.js.map": "/react-task3/static/js/runtime-main.53b4ef19.js.map",
+    "static/js/2.f161bb85.chunk.js": "/react-task3/static/js/2.f161bb85.chunk.js",
+    "static/js/2.f161bb85.chunk.js.map": "/react-task3/static/js/2.f161bb85.chunk.js.map",
+    "index.html": "/react-task3/index.html",
+    "precache-manifest.31df745d47079a587ce9d79038721d48.js": "/react-task3/precache-manifest.31df745d47079a587ce9d79038721d48.js",
+    "service-worker.js": "/react-task3/service-worker.js",
+    "static/css/main.1f20b9f7.chunk.css.map": "/react-task3/static/css/main.1f20b9f7.chunk.css.map",
+    "static/js/2.f161bb85.chunk.js.LICENSE.txt": "/react-task3/static/js/2.f161bb85.chunk.js.LICENSE.txt",
+    "static/media/calender-icon.png": "/react-task3/static/media/calender-icon.15f6ce85.png",
+    "static/media/card-background.jpg": "/react-task3/static/media/card-background.fd0c9d30.jpg",
+    "static/media/empty-list-icon.png": "/react-task3/static/media/empty-list-icon.a1167211.png",
+    "static/media/loader.gif": "/react-task3/static/media/loader.e4b6323e.gif",
+    "static/media/logout-icon.png": "/react-task3/static/media/logout-icon.bb6dc57c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5802b397.js",
+    "static/js/runtime-main.53b4ef19.js",
     "static/js/2.f161bb85.chunk.js",
     "static/css/main.1f20b9f7.chunk.css",
-    "static/js/main.b3028098.chunk.js"
+    "static/js/main.344b821f.chunk.js"
   ]
 }
